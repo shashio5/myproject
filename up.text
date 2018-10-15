@@ -9,12 +9,4 @@
 
 FTP Login credential
 
-Host : 162.242.197.196
-Username : root
-password : PyrrxxrF3LNx
 
-/var/www/html/jobpail  -Live jobpail code path
-/var/www/html/wls      -Live wls code path
-
-/var/www/html/jobpail-qa  - QA jobpail code path
-/var/www/html/wls-qa      - QA wls code path
