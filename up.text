@@ -7,12 +7,3 @@
 
 /var/www/html/sweda_web_clients_new/project/OfficeBrain/CustomBundle/QuickQuoteBundle/Resources/views/QuickQuote/emailQuickQuoteRaw.html.twig
 
-FTP Login credential
-
-
-
-/var/www/html/jobpail  -Live jobpail code path
-/var/www/html/wls      -Live wls code path
-
-/var/www/html/jobpail-qa  - QA jobpail code path
-/var/www/html/wls-qa      - QA wls code path
